@@ -1,7 +1,6 @@
 # 🗄️ SQL for Data Analysis
 
 [![SQLite](https://img.shields.io/badge/SQLite-3.0-blue)](https://www.sqlite.org/)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 Project Overview
