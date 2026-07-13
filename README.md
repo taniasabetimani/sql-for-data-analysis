@@ -29,7 +29,6 @@ A comprehensive SQL practice repository using the **Online Retail** e-commerce d
 sql-for-data-analysis/
 │
 ├── README.md
-├── requirements.txt
 ├── create_database.py          # Converts CSV to SQLite
 │
 ├── queries/
